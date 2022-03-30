@@ -6,5 +6,6 @@ Teknologi  :
 - sb admin 2
 
 login dengan menggunakan :
-email    = admin@gmail.com
-password = 12345
+
+	email    = admin@gmail.com
+	password = 12345
