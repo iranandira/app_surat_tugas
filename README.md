@@ -4,6 +4,7 @@ Teknologi  :
 - codeigniter 3
 - php 
 - sb admin 2
+- database mysql
 
 login dengan menggunakan :
 
